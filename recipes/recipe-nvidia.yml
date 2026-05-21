@@ -1,9 +1,9 @@
 ---
 # yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
 # image will be published to ghcr.io/<user>/<name>
-name: craftos
+name: craftos-nvidia
 # description will be included in the image's metadata
-description: Bazzite image with a minecraft only session. Includes prism launcher preinstalled.
+description: Bazzite image with a Minecraft-only session. Includes prism launcher preinstalled.
 
 # the base image to build on top of (FROM) and the version tag to use
 base-image: ghcr.io/ublue-os/bazzite-nvidia-open
