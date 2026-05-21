@@ -1,3 +1,4 @@
 [Desktop Entry]
-TryExec=/usr/bin/gamescope prismlauncher
+Exec=/usr/bin/cage prismlauncher
+TryExec=/usr/bin/cage prismlauncher
 Name=Minecraft (Prism Launcher)
