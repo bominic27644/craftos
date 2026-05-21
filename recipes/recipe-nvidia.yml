@@ -1,7 +1,7 @@
 ---
 # yaml-language-server: $schema=https://schema.blue-build.org/recipe-v1.json
 # image will be published to ghcr.io/<user>/<name>
-name: CraftOS
+name: craftos
 # description will be included in the image's metadata
 description: Bazzite image with a minecraft only Include prism launcher from copr reposession. Includes a prism launcher instance that has wayland craft preinstalled.
 
